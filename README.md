@@ -1,1 +1,1 @@
-# EVC
+# EVC (Electric vehicle charing system)
